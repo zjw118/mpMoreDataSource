@@ -11,6 +11,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.List;
 
+/**
+ * mybatisplusѧϰƪ
+ */
 @SpringBootTest
 class MybatisplusApplicationTests {
     @Autowired
