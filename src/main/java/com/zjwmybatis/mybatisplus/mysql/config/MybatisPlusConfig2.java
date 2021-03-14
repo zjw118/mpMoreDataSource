@@ -96,4 +96,5 @@ public class MybatisPlusConfig2 {
         conf.setRefresh(true);
         return conf;
     }*/
+
 }
